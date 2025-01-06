@@ -1,7 +1,3 @@
-﻿// Adı Soyadı: Mesut Taha Güven
-// Öğrenci No: b231200039
-// 2.Sınıf Bilişim Sistemleri Mühendisliği / 1.Öğretim A Grubu 
-
 // Gerekli kütüphaneleri içe aktarıyoruz.
 using System;
 using System.Collections.Generic;
