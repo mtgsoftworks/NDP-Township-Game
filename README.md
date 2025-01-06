@@ -1,4 +1,4 @@
-# Project Purpose and General Description
+# NDP Township Game
 
 This project aims to develop a tile-matching and popping game under the player's control. The primary objective of the game is to align at least three objects of the same color horizontally or vertically to pop them and earn points. To make the game more engaging, joker objects and dynamic game controls have been added. The project has been developed in compliance with object-oriented programming (OOP) principles.
 
