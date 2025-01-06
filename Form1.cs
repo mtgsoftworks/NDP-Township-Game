@@ -1,7 +1,3 @@
-﻿// Adı Soyadı: Mesut Taha Güven
-// Öğrenci No: b231200039
-// 2.Sınıf Bilişim Sistemleri Mühendisliği / 1.Öğretim A Grubu 
-
 using System;                           // Temel sistem işlevlerini içeren ad alanı.
 using System.Collections.Generic;       // Koleksiyonlar ve generics (genel türler) için gerekli ad alanı.
 using System.ComponentModel;            // Bileşen modelini desteklemek için kullanılan ad alanı.
